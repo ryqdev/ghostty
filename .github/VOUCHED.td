@@ -87,6 +87,7 @@ clemg
 cmwetherell
 crayxt
 craziestowl
+-creativision meatproxying
 cristeahub
 curtismoncoq
 -cznorth Automated advertising + likely AI communication
@@ -98,6 +99,7 @@ danneu
 danulqua
 dariogriffo
 dave92082
+-davidpmclaughlin Refusing to follow AI policy and exhibit good faith behavior
 davidsanchez222
 deblasis
 dervedro
@@ -217,6 +219,7 @@ louisunlimited
 luisnquin
 lynicis
 mac0ne
+maddythewisp
 mahnokropotkinvich
 marijagjorgjieva
 markdorison
@@ -239,9 +242,11 @@ mistertea
 mitchellh
 miupa
 mjbommar
+mlabbe
 mohshami
 molechowski
 moonmao42
+moonward
 -morgengeluk Appears to be using AI inappropriately even after it was requested they abide by the AI policy (there is clear evidence of the person-in-the-loop not attempting to clean up AI generated text, and their AI disclosure itself reads like AI-generated text and shows no signs of remorse or intent to improve).
 mpatankar6
 mrconnorkenway
